@@ -1,0 +1,12 @@
+isort
+jupyterlab
+matplotlib
+numpy
+pandas
+pyarrow
+pylint
+scikit-learn
+scipy
+seaborn
+tabulate
+yapf
